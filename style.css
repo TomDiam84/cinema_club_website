@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: Verdana, Arial, sans-serif;
+    margin: 0;
+  }
+  #logo {
+    float: left;
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+  }
+  .header {
+    font-family: fantasy;
+    font-size: 40px;
+    color: white;
+    background: rgb(171, 162, 162);
+    height: 82px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 80px;
+  }
+  #listnavbar {
+    background: rgb(79, 72, 72);
+    height: 60px;
+    overflow: hidden;
+    list-style: none;
+  }
+  #listnavbar li {
+    float: left;
+    line-height: 60px;
+  }
+  #listnavbar li a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 20px 40px 20px 40px;
+  }
+  /* hover effect */
+  #listnavbar li a:hover {
+    background-color: rgb(158, 151, 151);
+    color: black;
+  }
+  .maintext {
+    margin: 5px;
+    padding: 5px;
+  }
+  .pagetitle {
+    font-family: Calibri;
+  }
+  .welcome {
+    font-family: serif;
+    text-align: center;
+    background-color: rgb(232, 186, 102);
+    font-size: 2.5em;
+  }
+  #frontimage {
+    width: 770px;
+    height: 400px;
+    float: left;
+    margin-top: 0px;
+    position: absolute;
+    border: 5px solid rgb(232, 186, 102);
+  }
+  .welpar p {
+    float: right;
+    color: rgb(23, 4, 145);
+    font-family: serif;
+    font-size: 30px;
+    background-color: rgb(232, 186, 102);
+    text-align: center;
+    width: 715px;
+    height: 120px;
+    padding: 10px;
+  }
+  #landform {
+    float: right;
+    width: 715px;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: serif;
+    background-color: rgb(232, 186, 102);
+    margin-left: 500px;
+    margin-top: 20px;
+    height: 260px
+  }
+  .textbox {
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    margin: 7px;
+    font-size: 1em;
+  }
+  .textbut {
+    width: 200px;
+    height: 30px;
+    font-size: 1em;
+  }
+  
+  .par {
+    font-family: serif;
+    font-size: 1.5em;
+    margin: 5px;
+  }
+  #imgpar {
+    float: left;
+    width: 170px;
+  }
+  .placepicture {
+    width: 450px;
+    border: 5px solid rgb(140, 73, 1);
+    margin-top: 5px;
+  }
+  #picsem {
+    float: left;
+    margin: 14px;
+  }
+  #archimage {
+    float: left;
+    width: 300px;
+    margin-left: 5px;
+    border: 5px solid rgb(140, 73, 1);
+    margin-right: 5px;
+  }
+  .archimage2 {
+    width: 300px;
+    border: 5px solid rgb(140, 73, 1);
+    margin-top: -20px;
+    margin-left: 5px;
+  }
+  #annlist li {
+     font-family: serif;
+    font-size: 1.5em;
+    margin: 5px;
+    list-style: none;
+    padding: 7px;
+    padding-left: 10px;
+  }
+  table#t01 {
+    width: 100%;
+    background-color: rgb(232, 186, 102);
+    font-size: 1em;
+  }
+  table, th, td {
+    border: 4px solid rgb(140, 73, 1);
+    border-collapse: collapse;  
+  }
+  th, td {
+    padding: 15px;
+    text-align: center
+  }
+  .daysem {
+    color: rgb(59, 57, 66)
+  }
+  .namesem {
+    color: rgb(0, 142, 66);
+    font-style: italic;
+  }
+  .semper {
+    font-style: italic; 
+  }
+  .screens {
+    text-align: center;
+    width: 40%;
+  }
+  .imgscr1 {
+    float: right;
+    margin-top: -256px;
+    width: 200px;
+    margin-right: 150px;
+    border: 5px solid rgb(140, 73, 1);
+  }
+  .imgscr2 {
+    float: right;
+    margin-top: -256px;
+    width: 500px;
+    margin-left: 200px;
+    margin-right: 10px;
+    border: 5px solid rgb(140, 73, 1);
+  }
+  #probpic {
+    width: 350px;
+    margin-right: 500px;
+    height: 270px;
+    margin-top: 
+  }
+  #probpic2 {
+    height: 299px;
+  }
+  .faqlist {
+    font-family: serif;
+    font-size: 1.5em;
+    margin: 5px;
+    list-style: none;
+    padding: 7px;
+    padding-left: 10px;
+  }
+  .conlist {
+    font-family: serif;
+    font-size: 1.5em;
+    margin: 5px;
+    padding: 7px;
+    padding-left: 10px; 
+  }
+  .conlist li {
+    margin-left: 30px;
+  }
+  #uparrow {
+    float: right;
+    width: 200px;
+  }
+  
+  
+  
+  
